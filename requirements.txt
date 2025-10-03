@@ -7,3 +7,4 @@ pyet
 matplotlib
 spei
 folium
+statsmodels
