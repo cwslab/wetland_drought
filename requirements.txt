@@ -8,3 +8,4 @@ matplotlib
 spei
 folium
 statsmodels
+seaborn
