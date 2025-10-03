@@ -1,0 +1,9 @@
+pandas
+numpy
+xarray
+lmoments3
+scipy
+pyet
+matplotlib
+spei
+folium
